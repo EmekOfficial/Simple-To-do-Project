@@ -12,7 +12,7 @@ Smart Contract Address
 
 Installation Prerequisites
 
-###(İsteğe bağlı) Motoko Syntax Giriş
+# (İsteğe bağlı) Motoko Syntax Giriş
 1. Declarations:
 
 Başlangıç değeri olan değişkenleri tanıtmak için let kullanın: let x = 10
