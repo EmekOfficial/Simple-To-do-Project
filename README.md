@@ -13,7 +13,7 @@ Smart Contract Address
 Installation Prerequisites
 
 # (İsteğe bağlı) Motoko Syntax Giriş
-1. Declarations:
+### 1. Declarations:
 
 Başlangıç değeri olan değişkenleri tanıtmak için let kullanın: let x = 10
 
@@ -24,7 +24,8 @@ Fonksiyonları şununla tanımlayın: func:
 func add(a: Nat, b: Nat): Nat {
   return a + b;
 }
-2. Expressions:
+
+### 2. Expressions:
 
 Temel aritmetik işlemleri +, -, *, ve / kullanarak gerçekleştirin.
 
@@ -34,7 +35,7 @@ Köşeli parantezleri kullanarak listelerin ve nesnelerin öğelerine erişin[].
 
 if, else, let, ve for ifadeleriyle akışı kontrol edin..
 
-3. Types:
+### 3. Types:
 
 Motoko statik olarak yazılmıştır ve tyoe güvenliğini garanti eder.
 
@@ -42,7 +43,7 @@ Temek typelar bunları içerir: Nat (natural numbers), Text (strings), and Bool 
 
 Özelleştirilmiş typelar  struct veya enum ile tanımlanabilir.
 
-4. Actors:
+### 4. Actors:
 
 Actors, Motoko'da eşzamanlı hesaplama birimleridir.
 
@@ -50,13 +51,13 @@ Bir actor'u actor ile bildirirsiniz.
 
 Actors asenkron mesaj aktarımı yoluyla iletişim kurarlar.
 
-5. Asynchronous Programming:
+### 5. Asynchronous Programming:
 
 Use Eşzamansız bir işlemin sonucunu beklemek için await  kullanın.
 
 HatalarıError , try ve catch ile işleyin
 
-6. Comments:
+### 6. Comments:
 
 Tek satırlar için //, bloklar için /* */ kullanarak yorumlar ekleyin.
 
