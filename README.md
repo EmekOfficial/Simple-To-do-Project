@@ -3,7 +3,8 @@ Internet Computer Project Building Workshop
 
 Project Name: Simple To-Do
 
-About me (LinkedIn, twitter hesap bağlantınızı ekleyebilirsiniz)
+About me
+<a>https://www.linkedin.com/in/emekhsıldır/</a>
 
 Project Description
 
